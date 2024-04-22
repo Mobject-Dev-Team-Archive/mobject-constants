@@ -1,5 +1,5 @@
 # Changelog
 
-## datatype limits - v0.1.0-alpha
+## datatype limits - v1.0.0-release
 
-- First alpha release
+- First release
